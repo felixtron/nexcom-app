@@ -30,7 +30,6 @@ export default function Footer() {
               <li><a href="#" className="hover:text-primary">Nuestra historia</a></li>
               <li><a href="#" className="hover:text-primary">Inversionistas</a></li>
               <li><a href="#" className="hover:text-primary">Programa de partners</a></li>
-              <li><a href="#" className="hover:text-primary">Sala de prensa</a></li>
             </ul>
           </div>
 

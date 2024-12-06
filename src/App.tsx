@@ -139,8 +139,8 @@ function App() {
 
             <div className="relative h-[600px] rounded-xl overflow-hidden shadow-xl">
               <img
-                src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-                alt="Modern Technology Concept"
+                src="https://images.unsplash.com/photo-1451187863213-d1bcbaae3fa3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+                alt="Technology and Nature"
                 className="object-cover w-full h-full"
               />
               <div className="absolute inset-0 bg-gradient-custom opacity-20"></div>
